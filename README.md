@@ -11,20 +11,22 @@ Use this website to generate badges: https://shields.io/
 
 **About me:**
 <!-- Any image aligned to the right. Beware the width -->
+</p>
+<p align="center">
+  <img width="500" alt="banner" src="https://github.com/PajaritoCantor/PajaritoCantor/assets/157131868/7e8dd6b4-0867-43c9-b95c-2bade162c3da">
+</p>
 
-![42 banner](https://github.com/JZJavier/JZJavier/assets/76801285/04ca5675-b9fe-4f8f-a5f2-514786492c31)
+¡Hola! Soy estudiante de desarrollo de software en 42 Madrid. Historiador con Maestría en Historia Contemporánea y estudiante de Doctorado en Ciencias Políticas y de la Administración y Relaciones Internacionales. Artista musical independiente. Apasionado por la historia, la música y los videojuegos.
+La escuela 42 me ofrece una educación única, basada en el aprendizaje entre pares y en un entorno de proyecto 100% práctico. 
+Aquí, prospero en un entorno que fomenta la exploración, la innovación y la colaboración.
 
-¡Hola! Soy estudiante de desarrollo de software en 42 Madrid. Historiador con Maestría en Historia Contemporánea y estudiante de Doctorado en Ciencias Políticas y de la Administración y Relaciones Internacionales. Artista musical independiente. 
-42 me ofrece una educación única, que se basa en el aprendizaje entre pares y es un entorno de proyecto 100% práctico. 
-Aquí, prospero en un entorno que fomenta la exploración, la innovación y la colaboración. Apasionado por la historia, la música y los videojuegos.
+Hello! I am a software development student at 42 Madrid. Historian with a Master's Degree in Contemporary History and PhD student in Political and Administration Sciences and International Relations. Independent music artist. Enjoyed history, music and video games.
+School 42 offers me a unique education, based on parent-to-parent learning and a 100% hands-on project environment.
+Therefore, it thrives in an environment that drives exploration, innovation and collaboration.
 
-Hello! I am a software development student at 42 Madrid. Historian with a Master's Degree in Contemporary History and PhD student in Political and Administration Sciences and International Relations.
-42 offers me a unique education, which is based on peer learning and is a 100% hands-on project environment. Here, I thrive in an environment that encourages exploration, innovation, and collaboration. 
-Passionate about history, music and video games.
-
-Salut! Je suis étudiant en développement logiciel à 42 Madrid. Historien titulaire d'une maîtrise en histoire contemporaine et doctorant en sciences politiques et administratives et relations internationales.
-42 m'offre une formation unique, basée sur l'apprentissage par les pairs et un environnement de projet 100% pratique. Ici, je m'épanouis dans un environnement qui encourage l'exploration, l'innovation et la collaboration.
-Passionné d'histoire, de musique et de jeux vidéo.
+Salut! Je suis étudiant en développement logiciel à 42 Madrid. Historien titulaire d'une maîtrise en histoire contemporaine et doctorant en sciences politiques et administratives et relations internationales. Artiste musical indépendant. J'ai apprécié l'histoire, la musique et les jeux vidéo.
+L'École 42 m'offre une éducation unique, basée sur un apprentissage parent à parent et un environnement de projet 100% pratique.
+Par conséquent, il prospère dans un environnement qui favorise l’exploration, l’innovation et la collaboration.
 - 📫 How to reach me: davidlevertoficial@gmail.com;
 
 **Languages and Tools:** 
