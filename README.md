@@ -15,7 +15,11 @@ Use this website to generate badges: https://shields.io/
 <p align="center">
   <img width="500" alt="banner" src="https://github.com/PajaritoCantor/PajaritoCantor/assets/157131868/7e8dd6b4-0867-43c9-b95c-2bade162c3da">
 </p>
-¡Hola! Soy estudiante de desarrollo de software en 42 Madrid. Historiador con Maestría en Historia Contemporánea y estudiante de Doctorado en Ciencias Políticas y de la Administración y Relaciones Internacionales. Artista musical independiente. Apasionado por la historia, la música y los videojuegos. La escuela 42 me ofrece una educación única, basada en el aprendizaje entre pares y en un entorno de proyecto 100% práctico. Aquí, prospero en un entorno que fomenta la exploración, la innovación y la colaboración.
+
+<p align="center">Estudiante de desarrollo de software en 42 Madrid 💻 💿 👨‍💻
+<p align="center">Historiador / Master en Historia Contemporánea / Estudiante de Doctorado en Ciencias Políticas y de la Administración y Relaciones Internacionales 📜 📖 📚
+<p align="center">Artista musical independiente. 🎼🎶
+
 </details>
 
 <details>
@@ -23,7 +27,9 @@ Use this website to generate badges: https://shields.io/
   
   ### English
 
-  Hello! I am a software development student at 42 Madrid. Historian with a Master's Degree in Contemporary History and PhD student in Political and Administration Sciences and International Relations. Independent music artist. Enjoyed history, music and video games. School 42 offers me a unique education, based on parent-to-parent learning and a 100% hands-on project environment. Therefore, it thrives in an environment that drives exploration, innovation and collaboration.
+<p align="center">Software development student in 42 Madrid 💻 💿 👨‍💻
+<p align="center">Historian / Master in Contemporary History / Doctoral student in Political Sciences and Administration and International Relations 📜 📖 📚
+<p align="center">Independent musical artist 🎼🎶
 </details>
 
 <details>
@@ -31,7 +37,10 @@ Use this website to generate badges: https://shields.io/
   
   ### Français
 
-  Salut! Je suis étudiant en développement logiciel à 42 Madrid. Historien titulaire d'une maîtrise en histoire contemporaine et doctorant en sciences politiques et administratives et relations internationales. Artiste musical indépendant. J'ai apprécié l'histoire, la musique et les jeux vidéo. L'École 42 m'offre une éducation unique, basée sur un apprentissage parent à parent et un environnement de projet 100% pratique. Par conséquent, il prospère dans un environnement qui favorise l’exploration, l’innovation et la collaboration.
+<p align="center">Étudiant en développement logiciel à 42 Madrid 💻 💿 👨‍💻
+<p align="center">Historien / Master en Histoire contemporaine / Doctorant en Sciences Politiques et Administration et Relations Internationales 📜 📖 📚
+<p align="center">Artiste musical indépendant 🎼🎶
+
 </details>
 
 
