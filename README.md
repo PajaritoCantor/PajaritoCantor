@@ -16,7 +16,7 @@ Use this website to generate badges: https://shields.io/
   <img width="500" alt="banner" src="https://github.com/PajaritoCantor/PajaritoCantor/assets/157131868/7e8dd6b4-0867-43c9-b95c-2bade162c3da">
 </p>
 
-<p align="center">Estudiante de desarrollo de software en 42 Madrid 💻 💿 👨‍💻
+<p align="center">Estudiante de desarrollo de software - 42 Madrid 💻 💿 👨‍💻
 <p align="center">Historiador / Master en Historia Contemporánea / Estudiante de Doctorado en Ciencias Políticas y de la Administración y Relaciones Internacionales 📜 📖 📚
 <p align="center">Artista musical independiente. 🎼🎶
 
@@ -27,7 +27,7 @@ Use this website to generate badges: https://shields.io/
   
   ### English
 
-<p align="center">Software development student in 42 Madrid 💻 💿 👨‍💻
+<p align="center">Software development student - 42 Madrid 💻 💿 👨‍💻
 <p align="center">Historian / Master in Contemporary History / Doctoral student in Political Sciences and Administration and International Relations 📜 📖 📚
 <p align="center">Independent musical artist 🎼🎶
 </details>
@@ -66,5 +66,4 @@ Use this website to generate badges: https://shields.io/
 ## My Github Information 📊
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jurodrig&show_icons=true&locale=en" alt="jurodrig" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jurodrig&" alt="jurodrig" /></p>
