@@ -67,4 +67,4 @@ Use this website to generate badges: https://shields.io/
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jurodrig&show_icons=true&locale=en" alt="jurodrig" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jurodrig&" alt="jzjavier" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jurodrig&" alt="jurodrig" /></p>
