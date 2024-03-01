@@ -17,7 +17,8 @@ Use this website to generate badges: https://shields.io/
 </p>
 
 <p align="center">Estudiante de desarrollo de software - 42 Madrid 💻 💿 👨‍💻
-<p align="center">Historiador / Master en Historia Contemporánea / Estudiante de Doctorado en Ciencias Políticas y de la Administración y Relaciones Internacionales 📜 📖 📚
+<p align="center">Historiador / Master en Historia Contemporánea / 
+<p align="center">Estudiante de Doctorado en Ciencias Políticas y de la Administración y Relaciones Internacionales 📜 📖 📚
 <p align="center">Artista musical independiente. 🎼🎶
 
 </details>
