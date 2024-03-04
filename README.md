@@ -1,4 +1,4 @@
-## Hi, I'm Pajarito Cantor 👋.
+## Hi, I'm Pajarito Cantor (Songbird) 👋.
 
 <!-- Badges
 Use this website to generate badges: https://shields.io/
