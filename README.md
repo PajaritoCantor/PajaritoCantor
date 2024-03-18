@@ -11,8 +11,6 @@ Use this website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidlevertoficial@gmail.com)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-es/artist/60zRQPG7liNJJuUJkz0I9n?si=OMjTGBhsQnKEjfEDvYYnEg)
 
-<a href="https://profile.intra.42.fr/users/jurodrig"><img src="https://badge.mediaplus.ma/greenbinary/jurodrig?1337Badge=off&UM6P=off" width="60%"></a><a href="https://www.42madrid.com/"><img src="https://www.42madrid.com/wp-content/uploads/2019/11/logo-header@2x.png" width="40%">
-
 
 &nbsp;
 
@@ -71,7 +69,7 @@ Use this website to generate badges: https://shields.io/
   <br />
 </p> 
 
-[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PajaritoCantor&theme=blue-green)](https://github.com/PajaritoCantor)
+<a href="https://profile.intra.42.fr/users/jurodrig"><img src="https://badge.mediaplus.ma/greenbinary/jurodrig?1337Badge=off&UM6P=off" width="60%"></a><a href="https://www.42madrid.com/"><img src="https://www.42madrid.com/wp-content/uploads/2019/11/logo-header@2x.png" width="40%"> [![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PajaritoCantor&theme=blue-green)](https://github.com/PajaritoCantor) 
 
 ## My Github Information 📊
 
