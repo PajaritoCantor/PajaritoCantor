@@ -6,9 +6,11 @@
 Use this website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PajaritoCantor)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://es.linkedin.com/in/juan-david-rodr%C3%ADguez-laverde-851317242)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:davidlevertoficial@gmail.com)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PajaritoCantor)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/juan-david-rodr%C3%ADguez-laverde-851317242)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidlevertoficial@gmail.com)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-es/artist/60zRQPG7liNJJuUJkz0I9n?si=OMjTGBhsQnKEjfEDvYYnEg)
+
 &nbsp;
 
 **About me:**
