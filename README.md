@@ -1,5 +1,7 @@
 ## Hi, I'm Pajarito Cantor (Songbird) 👋.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PajaritoCantor&label=Vistas%20Perfil&color=0e75b6&style=flat" alt="PajaritoCantor" /> </p>
+
 <!-- Badges
 Use this website to generate badges: https://shields.io/
 -->
