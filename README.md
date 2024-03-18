@@ -66,7 +66,9 @@ Use this website to generate badges: https://shields.io/
   <code><img width="5%" src="https://unpkg.com/simple-icons@v11/icons/visualstudiocode.svg"></code>
   <br />
   <br />
-</p>
+</p> 
+
+[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PajaritoCantor&theme=blue-green)](https://github.com/PajaritoCantor)
 
 ## My Github Information 📊
 
