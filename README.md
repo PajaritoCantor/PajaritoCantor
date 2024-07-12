@@ -1,4 +1,4 @@
-## Hi, I'm Pajarito Cantor (Songbird) 👋.
+## Hi, I'm Pajarito Cantor (Little Songbird) 👋.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PajaritoCantor&label=Vistas%20Perfil&color=0e75b6&style=flat" alt="PajaritoCantor" /> </p>
 
@@ -48,7 +48,7 @@ Use this website to generate badges: https://shields.io/
 </details>
 
 
-- 📫 How to reach me: davidlevertoficial@gmail.com;
+- 📫 How to reach me: juandrod@ucm.es;
 
 **Languages and Tools:** 
 
