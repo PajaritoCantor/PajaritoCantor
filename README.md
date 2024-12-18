@@ -25,7 +25,13 @@ Use this website to generate badges: https://shields.io/
 <p align="center">Artista musical independiente. 🎼🎶
 
 <p align="center">
-  Soy nuevo en programación y estoy en constante aprendizaje. Mi objetivo principal es hacer que el camino de la programación sea más accesible para aquellas personas que, como yo, provienen de áreas de estudio no técnicas o experimentan dificultades de aprendizaje en este campo. 
+  <p align="center">
+  <p align="center">
+  Antes de convertirme en estudiante de la escuela 42 Madrid, experimenté desde pequeño fracaso escolar, especialmente con materias relacionadas a lenguaje lógico - matemáticas, física y química -. Repetir constantemente estos cursos alimentó mis inseguridades, pero también sembró una inquietud por superar estas barreras. Entré a 42 Madrid con el sueño de convertirme en programador de videojuegos y, gracias a su filosofía basada en el aprendizaje autodidacta, la colaboración y el pensamiento crítico, decidí enfrentar ese miedo que me había acompañado durante tanto tiempo. Hoy, me esfuerzo por avanzar paso a paso, demostrando que los límites pueden ser superados con dedicación y pasión.
+</p>
+
+<p align="center">
+  Mi objetivo principal en publicar mis pequeños manuales de procesos, en algunos casos, inspirados en proyectos de compañeros que han motivado este camino lleno de altos y bajos, es hacer que el recorrido de la programación sea más accesible para aquellas personas que, como yo, provienen de áreas de estudio no técnicas o experimentan dificultades de aprendizaje en este campo. 
 </p>
 
 <p align="center">
