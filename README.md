@@ -27,7 +27,7 @@ Use this website to generate badges: https://shields.io/
 <p align="center">
   <p align="center">
   <p align="center">
-  Antes de convertirme en estudiante de la escuela 42 Madrid, experimenté desde pequeño fracaso escolar, especialmente con materias relacionadas a lenguaje lógico - matemáticas, física y química -. Repetir constantemente estos cursos alimentó mis inseguridades, pero también sembró una inquietud por superar estas barreras. Entré a 42 Madrid con el sueño de convertirme en programador de videojuegos y, gracias a su filosofía basada en el aprendizaje autodidacta, la colaboración y el pensamiento crítico, decidí enfrentar ese miedo que me había acompañado durante tanto tiempo. Hoy, me esfuerzo por avanzar paso a paso, demostrando que los límites pueden ser superados con dedicación y pasión.
+  Antes de convertirme en estudiante de la escuela 42 Madrid, experimenté desde pequeño fracaso escolar, especialmente con materias relacionadas a lenguaje lógico - matemáticas, programación, física y química -. Repetir constantemente estos cursos alimentó mis inseguridades, pero también sembró una inquietud por superar estas barreras. Entré a 42 Madrid con el sueño de convertirme en programador de videojuegos y, gracias a su filosofía basada en el aprendizaje autodidacta, la colaboración y el pensamiento crítico, decidí enfrentar ese miedo que me había acompañado durante tanto tiempo. Hoy, me esfuerzo por avanzar paso a paso, demostrando que los límites pueden ser superados con dedicación y pasión.
 </p>
 
 <p align="center">
