@@ -24,6 +24,21 @@ Use this website to generate badges: https://shields.io/
 <p align="center">Estudiante de Doctorado en Ciencias Políticas y de la Administración y Relaciones Internacionales 📜 📖 📚
 <p align="center">Artista musical independiente. 🎼🎶
 
+<p align="center">
+  Soy nuevo en programación y estoy en constante aprendizaje. Mi objetivo principal es hacer que el camino de la programación sea más accesible para aquellas personas que, como yo, provienen de áreas de estudio no técnicas o experimentan dificultades de aprendizaje en este campo. 
+</p>
+
+<p align="center">
+  A través de mis contribuciones, busco crear pequeñas introducciones, guías y ejemplos que sirvan como puntos de partida para otros estudiantes. Creo firmemente que el aprendizaje no tiene un único camino, y que con esfuerzo y apoyo, cualquiera puede avanzar en el mundo del desarrollo de software. 
+</p>
+
+<p align="center">
+Entre el tiempo que me exige el cursus, el doctorado y mis proyectos personales, no siempre puedo ser completamente constante en la publicación de estos pequeños manuales de procesos o guías. Sin embargo, mi compromiso sigue siendo aportar contenido útil y reflexivo, especialmente pensado para quienes, como yo, han experimentado dificultades estructurales de aprendizaje en lo que se refiere a programación.
+</p>
+
+
+
+
 </details>
 
 <details>
