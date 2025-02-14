@@ -27,18 +27,11 @@ Use this website to generate badges: https://shields.io/
 <p align="center">
   <p align="center">
   <p align="center">
-A lo largo de mi vida experimenté fracaso escolar con materias relacionadas a lenguaje lógico - matemáticas, programación, física y química -. Repetir constantemente estos cursos alimentó inseguridades, pero también sembró una inquietud por superar estas barreras y ese fue uno de los motivos por los cuales me presenté a 42. 
-    
-<p align="center">    
-Entré a 42 Madrid con el sueño de convertirme en programador de videojuegos y divulgador tecnológico. Gracias a su filosofía basada en el aprendizaje autodidacta, la colaboración y el pensamiento crítico, decidí enfrentar ese miedo que me había acompañado durante tanto tiempo. Hoy, me esfuerzo por avanzar paso a paso, demostrando que los límites pueden ser superados con dedicación y pasión.
+A lo largo de mi vida académica experimenté fracaso escolar con materias relacionadas a lenguaje lógico - matemáticas, programación, física y química -. Entré a 42 Madrid con el sueño de convertirme en programador de videojuegos y divulgador tecnológico. Gracias a su filosofía basada en el aprendizaje autodidacta, la colaboración y el pensamiento crítico, decidí enfrentar ese miedo que me había acompañado durante tanto tiempo. Hoy, me esfuerzo por avanzar paso a paso, demostrando que los límites pueden ser superados con dedicación y pasión.
 </p>
 
 <p align="center">
-  Mi objetivo principal en publicar mis pequeños manuales de procesos, en algunos casos, inspirados en proyectos de compañeros que han motivado este camino lleno de altos y bajos, es hacer que el recorrido de la programación sea más accesible para aquellas personas que, como yo, provienen de áreas de estudio diferentes o experimentan dificultades de aprendizaje en este campo. 
-</p>
-
-<p align="center">
-  A través de mis contribuciones, busco crear pequeñas introducciones, guías y ejemplos que sirvan como puntos de partida para otros estudiantes. Creo firmemente que el aprendizaje no tiene un único camino, y que con esfuerzo y apoyo, cualquiera puede avanzar en el mundo del desarrollo de software. 
+  Mi objetivo principal en publicar mis pequeños manuales de procesos, en algunos casos, inspirados en proyectos de compañeros que han motivado este camino lleno de altos y bajos, es hacer que el recorrido de la programación sea más accesible para aquellas personas que, como yo, provienen de áreas de estudio diferentes o experimentan dificultades de aprendizaje en este campo. A través de mis contribuciones, busco crear pequeñas introducciones, guías y ejemplos que sirvan como puntos de partida para otros estudiantes. Creo firmemente que el aprendizaje no tiene un único camino, y que con esfuerzo y apoyo, cualquiera puede avanzar en el mundo del desarrollo de software. 
 </p>
 
 <p align="center">
