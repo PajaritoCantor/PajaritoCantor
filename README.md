@@ -6,9 +6,10 @@
 Use this website to generate badges: https://shields.io/
 -->
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/juan-david-rodr%C3%ADguez-laverde-851317242)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-es/artist/60zRQPG7liNJJuUJkz0I9n?si=OMjTGBhsQnKEjfEDvYYnEg)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/](https://www.youtube.com/@PajaritoCantor42))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/juan-david-rodr%C3%ADguez-laverde-851317242)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-es/artist/60zRQPG7liNJJuUJkz0I9n?si=OMjTGBhsQnKEjfEDvYYnEg)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PajaritoCantor42)
+
 
 
 &nbsp;
