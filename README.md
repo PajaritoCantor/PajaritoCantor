@@ -85,8 +85,6 @@ Entre el tiempo que me exige el cursus, el doctorado y mis proyectos personales,
   <br />
 </p> 
 
-<a href="https://profile.intra.42.fr/users/jurodrig"><img src="https://badge.mediaplus.ma/greenbinary/jurodrig?1337Badge=off&UM6P=off" width="60%"></a><a href="https://www.42madrid.com/"><img src="https://www.42madrid.com/wp-content/uploads/2019/11/logo-header@2x.png" width="40%"> [![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PajaritoCantor&theme=blue-green)](https://github.com/PajaritoCantor) 
-
 ## My Github Information 📊
 
 <div align="center">
