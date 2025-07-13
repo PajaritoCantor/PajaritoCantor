@@ -89,5 +89,9 @@ Entre el tiempo que me exige el cursus, el doctorado y mis proyectos personales,
 
 ## My Github Information 📊
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jurodrig&show_icons=true&locale=en" alt="jurodrig" /></p>
+<div align="center">
+  <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlyZXc0emY5OWFubjM2NHhqNWNtcDBlcnh2ZzhwYmRrNHVhZ3U3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jurodrig&show_icons=true&theme=dracula" width="350px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurodrig&layout=compact&theme=dracula" width="350px"/>
+</div>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jurodrig&" alt="jurodrig" /></p>
